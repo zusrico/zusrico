@@ -1,5 +1,5 @@
 #include <iostream>
-#include <stdlib.h> //new y delete
+#include <stdlib.h>  //new y delete
 #include <ctime>
 #include <algorithm>
 
