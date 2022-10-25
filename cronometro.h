@@ -35,3 +35,5 @@ private:
 // 3. Al estilo de C++, en este caso: static_cast<double>(CLOCKS_PER_SEC).
 
 #endif
+
+//mod
